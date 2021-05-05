@@ -11,16 +11,21 @@
 
    1. #### Main concept and worldview
 
-      1. ##### The world is largely divided into two categories: the real world and the virtual reality. The largest and most widely used virtual reality is called Overworld.
-      2. ##### The conflict between humans with and without Ethereum super tokens (cryptopunk, etc.) intensifies.
+      1. The world is largely divided into two categories: the real world and the virtual reality. The largest and most widely used virtual reality is called Overworld.
+
+         - The real world aims to be the same as the world we live in. (USA and China exist and use Ethereum blockchain, etc.)
+
+      2. The conflict between humans with and without Ethereum super tokens (cryptopunk, etc.) intensifies.
 
          - Ethereum token holders unite to establish a new country with super powers that surpass the United States and China. This is called United Contracts.
 
          - Human status is classified according to the tokens you have. (AI status is also classified.)
-      3. ##### Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
+
+      3. Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
 
          - There are AIs that are hostile to humans.
-      4. ##### United Contract uses the Ethereum blockchain for all voting.
+
+      4. United Contract uses the Ethereum blockchain for all voting.
 
          - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.) The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
            1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
@@ -28,11 +33,10 @@
 
       1. ##### Settings for NFT writer's creative topics
 
-         - AI has three appearaces. (You can draw several pictures on one character.)
+         - AI has three appearances. (You can draw several pictures on one character.)
            1. Basic appearance in virtual reality.
-              1. It usually looks like a cute monster.
+              1. It usually looks like a cute monster. It is illegal for AI to take on human form in public places. There is hierarchy between human and AI.
            2. Appearance in a human form in virtual reality. 
-              1. It is illegal for AI to take on human form in public places. (There is hierarchy between human and AI.)
            3. Appearance of a robot to enter the real world. This is because AI created in virtual reality does not have a physical body.
 
 3. ### **Goal of the tokenloss project**
@@ -42,12 +46,16 @@
       - Recently, the gap between reality and science fiction is rapidly narrowing. The world is getting closer to science fiction. The sci-fi worldviews created before are very different from the future we predict now. 
         1. So it's not fun. We need a new worldview.
 
-   2. #### It provides the endless stories that NFT writers and collectors need.
+   2. #### Prevent the work from being forgotten through a story that continues and expands.
 
-      1. ##### NFT collectors are reluctant to buy work that doesn't have a story. Because it can be difficult to resell.
+      - NFT collectors are reluctant to buy work that doesn't have a story. This is because the work is apt to be forgotten and difficult to resell.
 
-      2. ##### NFT author(not a writer) could feel difficulty when they are making a new stroy
-      It's also a problem to continue to build a community for the new story.
+      - NFT authors could feel difficulty when they are making a new story. It's also a problem to continue to build a community for the new story.
+
+## Repository Structure
+
+1. There are English and Korean editions. Collaborate by adding or editing posts to **<u>*tokenloss.md*</u>** within each folder. 
+
 
 
 ## Communication
@@ -62,19 +70,18 @@
 
 ## NFT Marketplace (Collection, Gallery, Etc)
 
-1. Feel free to add your collections or galleries which are related in tokenloss.
+1. Feel free to add your collections or galleries in this section, which are related in tokenloss. This project manager is not good at drawing. You can be more successful than me when it comes to profits using the tokenloss NFT. 
 
 2. NFT Marketplace 
 
    1. Opensea 
 
-      1. Akikenshin : https://opensea.io/collection/tokenloss/
+      - Akikenshin's : https://opensea.io/collection/tokenloss/
 
       
 
 ## LICENSE
 
-1. LICENSE
-   1. You can make revenue by issuing related NFTs. and get the token sales revenue, the token re-sales royalties.
-   2. Commercial use other than those listed in #1 above is prohibited.
+1. All authors and collectors can make revenue by issuing related NFTs. and get the token sales revenue, the token re-sales royalties. It's 100% yours.
+2. Commercial use other than those listed in #1 above and trading copyright using NFT is not permitted.
 
