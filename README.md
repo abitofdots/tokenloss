@@ -22,13 +22,8 @@
          - There are AIs that are hostile to humans.
       4. ##### United Contract uses the Ethereum blockchain for all voting.
 
-         - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.)
-
-         1. ​	The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
-            1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract.
-            2. The secretary-general is died in an accident and the tokens become unavailable.
-               1. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost.
-               2. The protagonists enter virtual reality to find Seedword.
+         - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.) The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
+           1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
    2. #### Detail settings and worldview
       
       1. ##### Settings for NFT writer's creative topics
