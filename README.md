@@ -25,32 +25,29 @@
          - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.) The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
            1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
    2. #### Detail settings and worldview
-      
+
       1. ##### Settings for NFT writer's creative topics
-         
-         1. ###### AI has three appearaces. (You can draw several pictures on one character.)
-            
-            1. Basic appearance in virtual reality.
-               1. It usually looks like a cute monster.
-            2. Appearance in a human form in virtual reality.
-               1. It is illegal for AI to take on human form in public places. (There is hierarchy between human and AI.)
-            3. Appearance of a robot to enter the real world
-               1. This is because AI created in virtual reality does not have a physical body.
+
+         - AI has three appearaces. (You can draw several pictures on one character.)
+           1. Basic appearance in virtual reality.
+              1. It usually looks like a cute monster.
+           2. Appearance in a human form in virtual reality. 
+              1. It is illegal for AI to take on human form in public places. (There is hierarchy between human and AI.)
+           3. Appearance of a robot to enter the real world. This is because AI created in virtual reality does not have a physical body.
 
 3. ### **Goal of the tokenloss project**
 
-   1. #### Create a new science fiction worldview after Star Wars.
+   1. #### Create a new science fiction with the massive worldview after Star Wars.
 
-      1. ##### Recently, the gap between reality and science fiction is rapidly narrowing. The world is changing very rapidly.
-         
-         1. ###### The sci-fi worldviews created before are very different from the present future we predict now. So it's not fun. We need a new worldview.
+      - Recently, the gap between reality and science fiction is rapidly narrowing. The world is getting closer to science fiction. The sci-fi worldviews created before are very different from the future we predict now. 
+        1. So it's not fun. We need a new worldview.
 
    2. #### It provides the endless stories that NFT writers and collectors need.
 
       1. ##### NFT collectors are reluctant to buy work that doesn't have a story. Because it can be difficult to resell.
 
       2. ##### NFT author(not a writer) could feel difficulty when they are making a new stroy
-   It's also a problem to continue to build a community for the new story.
+      It's also a problem to continue to build a community for the new story.
 
 
 ## Communication
@@ -78,6 +75,6 @@
 ## LICENSE
 
 1. LICENSE
-   1. You can make revenue by issuing related NFTs. (Token sales revenue, token re-sales royalties) I am not involved in these revenues.
+   1. You can make revenue by issuing related NFTs. and get the token sales revenue, the token re-sales royalties.
    2. Commercial use other than those listed in #1 above is prohibited.
 
