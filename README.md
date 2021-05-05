@@ -10,24 +10,25 @@
 2. ### **Features**
 
    1. #### Main concept and worldview
-      
+
       1. ##### The world is largely divided into two categories: the real world and the virtual reality. The largest and most widely used virtual reality is called Overworld.
       2. ##### The conflict between humans with and without Ethereum super tokens (cryptopunk, etc.) intensifies.
-         
-         1. Ethereum token holders unite to establish a new country with super powers that surpass the United States and China. This is called United Contracts.
-         2. Human status is classified according to the tokens you have. (AI status is also classified.)
+
+         - Ethereum token holders unite to establish a new country with super powers that surpass the United States and China. This is called United Contracts.
+
+         - Human status is classified according to the tokens you have. (AI status is also classified.)
       3. ##### Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
-         
-         1. There are AIs that are hostile to humans.
-      4.  ##### United Contract uses the Ethereum blockchain for all voting.
-         
-         1. ###### There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.)
-            
-            1. The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
-            2. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract.
-               1. The secretary-general is died in an accident and the tokens become unavailable.
-                  1. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost.
-                  2. The protagonists enter virtual reality to find Seedword.
+
+         - There are AIs that are hostile to humans.
+      4. ##### United Contract uses the Ethereum blockchain for all voting.
+
+         - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.)
+
+         1. ​	The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
+            1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract.
+            2. The secretary-general is died in an accident and the tokens become unavailable.
+               1. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost.
+               2. The protagonists enter virtual reality to find Seedword.
    2. #### Detail settings and worldview
       
       1. ##### Settings for NFT writer's creative topics
@@ -55,7 +56,6 @@
 
       2. ##### NFT author(not a writer) could feel difficulty when they are making a new stroy
    It's also a problem to continue to build a community for the new story.
-      
 
 
 ## Communication
