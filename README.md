@@ -73,15 +73,13 @@
    1. As you see the example below, there is a figure of a NFT art which is helpful to describe the novel.
       - Sales revenue and royalties from NFT itself are 100% yours. Please refer to the license section on this page.
       - Even if the figure already contains an art link, you can add a link underneath it. Up to 5 are allowed.
-
-   ```
-   "Hello. It's talkontoken. Today we have prepared an interview with the futurist Carlos! Don't forget to like and subscribe!" a show host said.
+      
+      "Hello. It's talkontoken. Today we have prepared an interview with the futurist Carlos! Don't forget to like and subscribe!" a show host said.
+      
+      "(...) Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. (...) But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
+      
+      FIGURE. Flag of United Contracts (https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841)
    
-   "(...) Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. (...) But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
-   
-   FIGURE. Flag of United Contracts (https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841)
-   ```
-
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 
 3. If you want to start a different story that fits tokenloss settings and worldview, start working by adding a new folder named a new subtitle.
