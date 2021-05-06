@@ -19,8 +19,6 @@
 
          - Ethereum token holders unite to establish a new country with super powers that surpass the United States and China. This is called United Contracts.
 
-         - Human status is classified according to the tokens you have. (AI status is also classified.)
-
       3. Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
 
          - There are AIs that are hostile to humans.
@@ -28,9 +26,9 @@
       4. United Contract uses the Ethereum blockchain for all voting.
 
          - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.) The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
-           1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
+        1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
    2. #### Detail settings and worldview
-
+   
       1. ##### Settings for NFT author's creative topics
 
          - AI has three appearances. (You can draw several pictures on one character.)
@@ -38,7 +36,7 @@
               1. It usually looks like a cute monster. It is illegal for AI to take on human form in public places. There is hierarchy between human and AI.
            2. Appearance in a human form in virtual reality. 
            3. Appearance of a robot to enter the real world. This is because AI created in virtual reality does not have a physical body.
-
+   
 3. ### **Goal of the tokenloss project**
 
    1. #### Create a new science fiction with the most massive worldview after Star Wars.
