@@ -1,15 +1,16 @@
-# Tokenloss (*Science Fiction with NFT Artworks*)
+# Tokenloss
 
 ## What is Tokenloss?
 
 1. ### **This is a science fiction novel** 
 
    1. This is not programming code, datasets, or technical documentation.
-   2. It is a science fiction novel that can be collaborated through Github.
+   2. This is a science fiction novel that can be collaborated through Github.
+   3. NFT illustrations are included in each paragraph.
 
 2. ### Why use Github?
 
-   1. To create a story that lasts and develops forever. We call this type of story a legend.
+   1. To create a story that lasts and develops forever. Github is best platform to create this type of story.
 
 3. ### Story Features
 
@@ -41,7 +42,7 @@
            2. Appearance in a human form in virtual reality. 
            3. Appearance of a robot to enter the real world. This is because AI created in virtual reality does not have a physical body.
 
-4. ### **Goal of the tokenloss project**
+4. ### **Goal of the project tokenloss**
 
    1. #### Create a new science fiction with the most massive worldview after Star Wars.
 
@@ -54,12 +55,37 @@
       - *NFT authors* could feel difficulty when they are making a new story. It's also a problem to continue to build a community for the new story.
       - It's also difficult for *science fiction writers* to make revenue just by writing.
       - **<u>Tokenloss offers a huge theme that solves the problems of the three workers above.</u>**
-      
-      
+
+## How to read
+
+1. Go to https://github.com/akikenshin/tokenloss/blob/main/English%20Edition/tokenloss.md
+
+
+
+## How to collaborate
+
+1. Insert your NFT arts that matches with the paragraph around.
+
+   1. As you see the example below, there is a figure of a NFT art which is helpful to describe the novel.
+      - Sales revenue and royalties from NFT itself are 100% yours. Please refer to the license section on this page.
+      - Even if the figure already contains an art link, you can add a link underneath it. Up to 5 are allowed.
+
+   ```
+   "Hello. It's talkontoken. Today we have prepared an interview with the futurist Carlos! Don't forget to like and subscribe!" a show host said.
+   
+   "(...) Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. (...) But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
+   
+   FIGURE. Flag of United Contracts (https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841)
+   ```
+
+2. Insert your any sentences which follows tokenloss settings. Or replace old sentences with better sentences you thought.
+3. If you want to start a different story that fits tokenloss settings and worldview, start working by adding a new folder named a new subtitle.
+
+
 
 ## Repository Structure
 
-1. There are English and Korean editions. Collaborate by adding or editing posts to **<u>*tokenloss.md*</u>** within each folder. 
+1. 
 
 
 
