@@ -48,7 +48,7 @@
       - Recently, the gap between reality and science fiction is rapidly narrowing. The world is getting closer to science fiction. The sci-fi worldviews created before are very different from the future we predict now. 
         1. So it's not fun. We need a new worldview.
 
-   2. #### Prevent the work from being forgotten through a story that continues and develops.
+   2. #### Prevent NFT artworks from being forgotten through a story that continues and develops.
 
       - *NFT collectors* are reluctant to buy work that doesn't have a story. This is because the work is apt to be forgotten and difficult to resell.
       - *NFT authors* could feel difficulty when they are making a new story. It's also a problem to continue to build a community for the new story.
