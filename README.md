@@ -8,11 +8,11 @@
 
    1. This is not programming code, datasets, or technical documentation.
    2. This is a science fiction novel that can be collaborated through Github.
-   3. NFT illustrations are included in each paragraph.
+   3. NFT illustrations are included.
 
 2. ### Why use Github?
 
-   1. To create a story that lasts and develops forever. Github is best platform to create this type of story.
+   1. To create a story that lasts and develops forever. Github is best framework to create this type of story.
 
 3. ### Story Features
 
@@ -21,19 +21,19 @@
       1. The world is largely divided into two categories: the real world and the virtual reality. The largest and most widely used virtual reality is called Overworld.
 
          - The real world aims to be the same as the world we live in. (USA and China exist and use Ethereum blockchain, etc.)
-
-      2. The conflict between humans with and without Ethereum super tokens (cryptopunk, etc.) intensifies.
+      2. The real world is another virtual reality. 
+      3. The conflict between humans with and without Ethereum super tokens (cryptopunk, etc.) intensifies.
 
          - Ethereum token holders unite to establish a new country with super powers that surpass the United States and China. This is called United Contracts.
 
-      3. Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
+      4. Humans and AI coexist. However, as the AI gets stronger, the confrontation between the two intensifies.
 
          - There are AIs that are hostile to humans.
 
-      4. United Contract uses the Ethereum blockchain for all voting.
+      5. United Contract uses the Ethereum blockchain for all voting.
 
          - There is a bug that can manipulate Ethereum governance. (There is a bug that can disable the decentralization of Ethereum.) The bug was intentionally inserted by early developers of Ethereum, who predicted that AI's voting power would be stronger, to secure human dominance over Ethereum.
-        1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
+        6. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
    2. #### Detail settings and worldview
 
       1. ##### Settings for NFT author's creative topics
@@ -116,7 +116,7 @@
 
 
 
-## NFT Marketplace (Collection, Gallery, Etc)
+## NFT Marketplace (Item, Collection, Gallery, Etc)
 
 1. Feel free to add your collections or galleries in this section, which are related in tokenloss. 
 
