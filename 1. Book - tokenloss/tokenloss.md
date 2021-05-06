@@ -1,21 +1,30 @@
-# TOKENLOSS
+# Tokenloss
 
 1. What is United Contracts?
 
-     "Hello. It's talkontoken. Today we have prepared an interview with the futurist Carlos! Don't forget to like and subscribe!" a show host said. 
+   "Hello. It's tokencity. Please hit like and subscribe buttons! Today we have prepared an interview with the futurist Carlos!" a show host said. 
 
-   "At that time, will China take over the hegemony in the future? Will the United States continue to keep the number one super power? it was a very interesting topic. Many books on this subject were published at the time. Uh... But, we don't talk about that anymore. As you know, although these two countries still exist in nominal terms... these days... what... the country doesn't mean much? There are more people in their twenties without nationality these days. But still, it's a tradition, so I think it's good to keep nationality. Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. The social contract theory. Thomas Hobbes, a political philosopher of the 16th century, and when people are in a natural state, disorder comes, steals, and harms. There was someone who made this claim. He said that society was not born naturally, but was made through contracts between people. It is true that this concept also applies to countries. But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
+   "At that time, will China take over the hegemony in the future? Will the United States continue to keep the number one super power? it was a very interesting topic. Many books on this subject were published at the time. Uh... But, we don't talk about that anymore. As you know, although these two countries still exist in nominal terms... these days... what... the country doesn't mean much? There are more people in their twenties without nationality these days. But still, it's a tradition, so I think it's good to keep nationality. Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. The social contract theory. Thomas Hobbes, a political philosopher of the 16th century, and when people are in a natural state, disorder comes, steals, and harms. There was someone who made this claim. He said that society was not born naturally, but was made through contracts between people. It is true. This concept also applies to countries. But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
 
-     "United Contracts is an international organization created by token holders. At first, it was not an international organization, but a social gathering of token holders. There was a chat app called Club Owner, and only people with specific tokens could enter the chat room and talk. Nobody thought that chat rooms talking about coins and tokens would become an international organization. However, the number of chat rooms started to increase, such as starting to have one chat room for each NFT contract, and later, two or more contracts started sharing a room. Since this chat room was based on a contract, it was able to handle very fast and secure governance. Moreover, since it were chat rooms of token owners, it was also financially powerful. When I think about it again now, It would be strange if it hadn't turned into an international organization. What they didn't have was the army and the land. However, a historic thing happens that even solves this. It was in Yemen." Carlos said.
+   "Well Carlos. These days, people take UC for granted only as a nation. Actually, I am too. It would be helpful if you explain what people before used to think about UC." the show host said.
 
-   FIGURE. Flag of United Contracts (https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841)
+   "United Contracts is an international organization created by token holders. At first, it was not an international organization, but just a social community of token holders. Even further back, it was just a chat room." Carlos said. 
+
+   "I've heard of it as a social community. But what is a chat room that you mean? Is it different chat room that i know?" the show host said.
+
+   "No. It's the chat room you know. However, at that time, people mainly talked with text. There was a chat app called Club holders, and only people with specific tokens could enter the chat room and talk. Nobody thought that chat rooms talking about coins would become an international organization. However, the number of chat rooms started to increase, such as starting to have one chat room for each NFT contract, and later, two or more contracts started sharing each of a room. It was like forming an alliance. Since this chat room was based on a contract, it was able to handle very fast and secure governance. Moreover, since it were chat rooms of token holders, it was also financially supported. When I think about it again now, It would be strange if it hadn't turned into an international organization. What they didn't have was the army and the land. You know these are necessary to be a nation. However, a historic thing happens that even solves this. It was in Yemen." Carlos said.
+
+   - FIGURE. Flag of United Contracts 
+     - aki kenshin : https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841
+     - (This space is waiting for your NFT's link!)
 
 2. Life in Overworld
-     
-       This is Overworld. It is the largest virtual reality shared by all humans and AI from the real world. In the Overworld, only humans can have human forms. This is to differentiate between humans and AI. Arvito has a starfish-shaped form. She secretly wear a human or cat form when she is alone or bored at home, but she usually use a starfish form. Form is like a name. You can change it, but since you and the people around you become confused, most of AIs are satisfied with the forms given to them when they were born. A call came to arvito. It's Dr. Mann. “The secretary-general is dead. Come to my office right now.”
    
-     FIGURE. Structure diagram of the real world and virtual reality (<u>**If you have any NFT art that suits here, please write the link here.**</u>)
-     
+    This is Overworld. It is the largest virtual reality shared by all humans and AI from the real world. In the Overworld, only humans can have human forms. This is to differentiate between humans and AI. Arvito has a starfish-shaped form. She secretly wear a human or cat form when she is alone or bored at home, but she usually use a starfish form. Form is like a name. You can change it, but since you and the people around you become confused, most of AIs are satisfied with the forms given to them when they were born. A call came to arvito. It's Dr. Mann. “The secretary-general is dead. Come to my office right now.”
+   
+   - FIGURE. Structure diagram of the real world and virtual reality 
+     - (This space is waiting for your NFT's link!)
+   
 3. The secretary general's dead
    "Dr. Mann! Is it really that the secretary general is dead?" arvito ran into Dr. Man's office with a surprised face. There was a sandwich for breakfast in her hand.
    "Right." Dr. Mann answered.
