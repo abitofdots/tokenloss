@@ -31,7 +31,7 @@
            1. Tokens capable of executing bugs may only be used by the Secretary-General of United Contract. And the secretary-general is died in an accident and the tokens become unavailable. The secretary-general created a personal virtual reality and hid it there in case Seedword was lost. The protagonists enter virtual reality to find Seedword.
    2. #### Detail settings and worldview
 
-      1. ##### Settings for NFT writer's creative topics
+      1. ##### Settings for NFT author's creative topics
 
          - AI has three appearances. (You can draw several pictures on one character.)
            1. Basic appearance in virtual reality.
@@ -49,8 +49,8 @@
    2. #### Prevent the work from being forgotten through a story that continues and expands.
 
       - NFT collectors are reluctant to buy work that doesn't have a story. This is because the work is apt to be forgotten and difficult to resell.
-
       - NFT authors could feel difficulty when they are making a new story. It's also a problem to continue to build a community for the new story.
+      - Project tokenloss offers a huge theme for NFT workers that can solve these problems.
 
 ## Repository Structure
 
