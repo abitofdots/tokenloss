@@ -1,65 +1,83 @@
 # Tokenloss
 
-1. What is United Contracts?
+### Interview with a futurist - What is United Contracts?
 
-   "Hello. It's tokencity. Please hit like and subscribe buttons! Today we have prepared an interview with the futurist Carlos!" a show host said. 
+"Hello. It's tokencity. Please hit like and subscribe buttons! Today we have prepared an interview with the futurist Carlos!" a show host said. 
 
-   "At that time, will China take over the hegemony in the future? Will the United States continue to keep the number one super power? it was a very interesting topic. Many books on this subject were published at the time. Uh... But, we don't talk about that anymore. As you know, although these two countries still exist in nominal terms... these days... what... the country doesn't mean much? There are more people in their twenties without nationality these days. But still, it's a tradition, so I think it's good to keep nationality. Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. The social contract theory. Thomas Hobbes, a political philosopher of the 16th century, and when people are in a natural state, disorder comes, steals, and harms. There was someone who made this claim. He said that society was not born naturally, but was made through contracts between people. It is true. This concept also applies to countries. But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
+"At that time, people tried to guess who will be next generation power. like.. will China take over the hegemony in the future? Or will the United States continue to keep the number one super power? it was a very controversy topic. Many books on this subject were published. Uh... But, we don't talk about that anymore. As you know, although these two countries still exist in nominal terms... these days... what... the country doesn't mean much? There are more people in their twenties without nationality these days. But still, it's a tradition, so I think it's good to keep nationality. Now UC (United Contracts) is taking over the role of the former state. But this is not a very new concept. There were people who said this very long ago. The social contract theory. Thomas Hobbes, a political philosopher of the 16th century, and when people are in a natural state, disorder comes, steals, and harms. There was someone who made this claim. He said that society was not born naturally, but was made through contracts between people. It is true. This concept also applies to countries. But these days, it can be said that it fits much better than then. We call of the strongest existing organization as contracts now, right?" Carlos said.
 
-   "Well Carlos. These days, people take UC for granted only as a nation. Actually, I am too. It would be helpful if you explain what people before used to think about UC." the show host said.
+"Well Carlos. These days, people take UC for granted only as a nation. Actually, I am too. It would be helpful if you explain what people before used to think about UC." the show host said.
 
-   "United Contracts is an international organization created by token holders. At first, it was not an international organization, but just a social community of token holders. Even further back, it was just a chat room." Carlos said. 
+"United Contracts is an international organization created by token holders. At first, it was not an international organization, but just a social community of token holders. Even further back, it was just a chat room." Carlos said. 
 
-   "I've heard of it as a social community. But what is a chat room that you mean? Is it different chat room that i know?" the show host said.
+"I've heard of it as a social community. But what is a chat room that you mean? Is it different chat room that i know?" the show host said.
 
-   "No. It's the chat room you know. However, at that time, people mainly talked with text. There was a chat app called Club holders, and only people with specific tokens could enter the chat room and talk. Nobody thought that chat rooms talking about coins would become an international organization. However, the number of chat rooms started to increase, such as starting to have one chat room for each NFT contract, and later, two or more contracts started sharing each of a room. It was like forming an alliance. Since this chat room was based on a contract, it was able to handle very fast and secure governance. Moreover, since it were chat rooms of token holders, it was also financially supported. When I think about it again now, It would be strange if it hadn't turned into an international organization. What they didn't have was the army and the land. You know these are necessary to be a nation. However, a historic thing happens that even solves this. It was in Yemen." Carlos said.
+"No. It's the chat room you know. However, at that time, people mainly talked with text. There was a chat app called Club holders, and only people with specific tokens could enter the chat room and talk. Nobody thought that chat rooms talking about coins would become an international organization. However, the number of chat rooms started to increase, such as starting to have one chat room for each NFT contract, and later, two or more contracts started sharing each of a room. It was like forming an alliance. Since this chat room was based on a contract, it was able to handle very fast and secure governance. Moreover, since it were chat rooms of token holders, it was also financially supported. When I think about it again now, It would be strange if it hadn't turned into an international organization. What they didn't have was the army and the land. You know these are necessary to be a nation. However, a historic thing happens that even solves this. It was in Yemen." Carlos said.
 
-   - FIGURE. Flag of United Contracts 
-     - aki kenshin : https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841
-     - (This space is waiting for your NFT's link!)
+- FIGURE. Flag of United Contracts 
+  - aki kenshin : https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841
+  - (This space is waiting for your NFT's link!)
 
-2. Life in Overworld
-   
-    This is Overworld. It is the largest virtual reality shared by all humans and AI from the real world. In the Overworld, only humans can have human forms. This is to differentiate between humans and AI. Arvito has a starfish-shaped form. She secretly wear a human or cat form when she is alone or bored at home, but she usually use a starfish form. Form is like a name. You can change it, but since you and the people around you become confused, most of AIs are satisfied with the forms given to them when they were born. A call came to arvito. It's Dr. Mann. “The secretary-general is dead. Come to my office right now.”
-   
-   - FIGURE. Structure diagram of the real world and virtual reality 
-     - (This space is waiting for your NFT's link!)
-   
-3. The secretary general's dead
-   "Dr. Mann! Is it really that the secretary general is dead?" arvito ran into Dr. Man's office with a surprised face. There was a sandwich for breakfast in her hand.
-   "Right." Dr. Mann answered.
-   "How?" Asked arvito.
-   "Hmm, it's constipation." Dr. Mann answered. Arvito picked up her phone and checked the date. It was May 3 and not April 1. He looked up again and saw Dr. Mann. She needed an explanation.
-   "Sometimes this is the case. Elvis Presley also died of constipation. In that case, he was born without some of the bowel muscles that naturally push the stool, and he died of a heart attack. Because the blood was so rushing to one side when he was in the toilet. Of course, he was born normal, but as you know, he's a little tricky. I'm sure the muscles that push the stool were reduced. After that... he died like Elvis Presley. Who could have known?" Dr. Mann said.
-   "Oh, such a general. If the poop didn't come out, he should have spoken. How hard it would have been to not be able to speak until he died..." said arvito crying..
 
-   "arvito. I'm so sad too. He was a great secretary general." Dr. Mann also said in a trembling voice.
-   "But we have an important problem." Dr. Mann calmly continued.
-   "What is that? A bigger problem than the general's death?" Asked arvito.
-   "It's a big problem. If it goes wrong, this Overworld we live in could be reset." Said Dr. Mann.
-   "Dr. Mann. It sounds like you're hearing a very old conspiracy theory that the Ethereum blockchain is just a fake." arvito said that such a theory seemed uninteresting.
-   "As you know, the Overworld won't reset If Ethereum was developed as designed, but there's something you don't know yet." Dr. Mann looked at arvito's eyes. He seemed to be hesitant trying to tell the story. He continued the story.
-   "The early founders of Ethereum planted a bug that could manipulate governance." Said Dr. Mann.
-   "Is that true? How could they do that? If so, that's a great crime!" arvito said as if she couldn't believe it.
-   "There was a good reason for that. When Ethereum was designed, everyone who could use a wallet was human. It was an age when people couldn't think that AI would use a wallet as it is now. But some founders knew that AI will use a wallet. I knew that I would be using a wallet soon, and I wanted to prevent that in advance, because if the voting power of AI is strengthened, human will lose dominant control over the world as well as the Overworld. It would be impossible to limit Ethereum, if that way, Ethereum would no longer be decentralized, and people would have chosen a blockchain other than Ethereum. There was no alternative. This bug is excuted by transfering a token called miracle to the bug contract. it's very simple. Once the transfer is complete, you can manipulate the overall governance of Ethereum. The miracle token is now stored in the general's wallet, but he died in an unexpected accident and cannot use it. There is no one able to use it.” Said Dr. Mann.
-   “To get your wallet back, you need to know seedwords, but only the general knows seedwords. it only exists in the general's memory. What do you mean you can get this back, sir?” Asked arvito.
 
-   “Sterrin, the first general, created VR with the idea of an ancient memory technique for fear of losing seedword. It is a palace of memories. It's a method often used by professional memory players these days, but this is a modified version. Originally, the palace of memory was to think of a palace in my head, make a room in it, arrange furniture, put what I want to remember on a desk, or put it on a bookshelf. But Mr. Sterin made this virtual reality, not in his head, and kept the seedwords. seedwords may be the words the person said, who you meet in VR, or it may be written on the sword of an unknown pirate. This changes every time you enter VR. However, because it is stored in a place and time that Sterin is unlikely to miss, he can easily find it if he go in and find it. While doing this there is no fear of being hacked. " said Dr. Mann.
-   “I've heard of that VR, too. It's called a boo's room. The booth room looks just like the real world, so it has a lot more freedom than a nomral game. However, there are too few numbers of ways to get the seedwords. Sometimes, once you miss a route, you can't go back. you could keep wasting my time without knowing you missed it. The inhabitants of the boo's room know the seedwords, but If the crew we dispatched can’t meet him or if there’s a problem between the two. it would be impossible to know forever." said arvito.
-   “But if the user who entered is Sterin, the first general who created the boo's room?” Dr. Mann said seriously.
-   “It's been over 100 years since he died. And if there is Sterin or another still living general, you don't even have to worry about this in the first place. Huh... No way… “ arvito said.
-   “To find out seedward, we will create AI by learning the transaction history of Sterin. He's not a stelin, but he's got the most similar thoughts and actions to Sterin, so he'll be able to find the hidden seed words.” said Dr. Mann.
-   “Doctor. Even if the same AI as me is right next to me, that AI and I will not behave the same or think the same for an hour. Well, furthermore, it would be more difficult to expect such behavior if it is not sterin himself but an AI similar to that of that was created. “arvito said.
-   “arvito. I know it's difficult too. But this is still necessary.” said Dr. Mann.
+### Life in Overworld
 
-   #################################
+This is Overworld. It is the largest virtual reality shared by all humans and AI from the real world. In the Overworld, only humans can have human forms. This is to differentiate between humans and AI. Arvito has a starfish-shaped form. She secretly wear a human or cat form when she is alone or bored at home, but she usually use a starfish form. Form is like a name. You can change it, but since you and the people around you become confused, most of AIs are satisfied with the forms given to them when they were born. A call came to arvito. It's Dr. Mann. “The secretary-general is dead. Come to my office right now.”
 
-#################################
-An investigation room with minimal light. Avito is advocating the mysterious AI. AI engineers and bodyguards stand by through the windows that lead to the aisle.
-“You are just a newly created AI. I'm going to ask a few questions to check if you have the right personality to live in the Overworld. If you lie, you will not be permitted to register and may be destroyed, so please answer honestly. First of all, what were you doing before you came here?” Asked arvito. Nothing he really did. This is because this is the place that came immediately after it was created. He was born as a young man at the age of 27. She is asking about the generated memories. You are asking what is the end of the memories created through the data. “I feel like I'm having a dream. Am I AI? I slapped once...” Iceterine slapped him on the cheek. “It doesn’t hurt! It's a very unpleasant dream! My head hurts too. I really want to get out of here.” He continued to slap his cheeks and, in handcuffs, said, smacking his head against the desk.
-"stop it. Icesterine. You are newly spawned, so the sensation is not yet complete. Because it is made of human memory, it only has human memory related to it, but it is the same AI as me. It may be difficult to accept, but you have to accept it.” Said arvito. But Iceterine didn't stop the riots, and arvito realized that he couldn't say good words. “If you behave like this, you will not be able to register you in Overworld, and we will no longer supply Ethereum to your contract. Then the contracts that cannot pay for gas will stop working, and if you don't want to see your pepper disappear in front of your eyes, go ahead and calm down.” Said arvito. She wasn't embarrassed because she had been doing this for a long time. But icesterine did not stop the riot. I thought it was useless to hit the body and started screaming or singing songs that didn't fit at all.
-'It doesn't work. I created it with expensive Ether, but I can't really cut off the gas supply,” thought arvito. “It can't be helped. Knight. Let’s look at it again after the learning is completely finished. I think I'm in a hurry. Please bring him back in a month.” Avito called through a microphone to the driver and bodyguard outside the investigation room. arvito got up from his chair and left the investigation room, leaving behind the rioting icester.
-#################################
+- FIGURE. Structure diagram of the real world and virtual reality 
+  - (This space is waiting for your NFT's link!)
+
+  
+
+### The secretary general's dead
+
+"Dr. Mann! Is it really that the secretary general is dead?" arvito ran into Dr. Man's office with a surprised face. There was a sandwich for breakfast in her hand.
+"Right." Dr. Mann answered.
+"How?" Asked arvito.
+"Hmm, it's constipation." Dr. Mann answered. Arvito picked up her phone and checked the date. It was May 3 and not April 1. He looked up again and saw Dr. Mann. She needed an explanation.
+"Sometimes this is the case. Elvis Presley also died of constipation. In that case, he was born without some of the bowel muscles that naturally push the stool, and he died of a heart attack. Because the blood was so rushing to one side when he was in the toilet. Of course, he was born normal, but as you know, he's a little tricky. I'm sure the muscles that push the stool were reduced. After that... he died like Elvis Presley. Who could have known?" Dr. Mann said.
+"Oh, such a general. If the poop didn't come out, he should have spoken. How hard it would have been to not be able to speak until he died..." said arvito crying..
+
+"Arvito. I'm so sad too. He was a great secretary general." Dr. Mann also said in a trembling voice.
+"But we have an important problem." Dr. Mann calmly continued.
+"What is that? A bigger problem than the general's death?" Asked arvito.
+"It's a big problem. If it goes wrong, this Overworld we live in could be reset." Said Dr. Mann.
+"Dr. Mann. It sounds like you're hearing a very old conspiracy theory that the Ethereum blockchain is just a fake." arvito said that such a theory seemed uninteresting.
+"As you know, the Overworld won't reset If Ethereum was developed as designed, but there's something you don't know yet." Dr. Mann looked at arvito's eyes. He seemed to be hesitant trying to tell the story. He continued the story.
+"The early founders of Ethereum planted a bug that could manipulate governance." Said Dr. Mann.
+"Is that true? How could they do that? If so, that's a great crime!" arvito said as if she couldn't believe it.
+"There was a good reason for that. When Ethereum was designed, everyone who could use a wallet was human. It was an age when people couldn't think that AI would use a wallet as it is now. But some founders knew that AI will use a wallet. I knew that I would be using a wallet soon, and I wanted to prevent that in advance, because if the voting power of AI is strengthened, human will lose dominant control over the world as well as the Overworld. It would be impossible to limit Ethereum, if that way, Ethereum would no longer be decentralized, and people would have chosen a blockchain other than Ethereum. There was no alternative. This bug is excuted by transfering a token called miracle to the bug contract. it's very simple. Once the transfer is complete, you can manipulate the overall governance of Ethereum. The miracle token is now stored in the general's wallet, but he died in an unexpected accident and cannot use it. There is no one able to use it.” Said Dr. Mann.
+“To get your wallet back, you need to know seedwords, but only the general knows seedwords. it only exists in the general's memory. What do you mean you can get this back, sir?” Asked arvito.
+
+“Sterin, the first general, created VR with the idea of an ancient memory technique to prevent losing seedwords. It is a palace of memories. It's a method often used by professional memory players these days, but this is a modified version. Originally, the palace of memory was to think of a palace in my head, make a room in it, arrange furniture, put what I want to remember on a desk, or put it on a bookshelf. But Mr. Sterin made this virtual reality, not in his head, and kept the seedwords. seedwords may be the words the person said, who you meet in VR, or it may be written on the sword of an unknown pirate. This changes every time you enter VR. However, because it is stored in a place and time that Sterin is unlikely to miss, he can easily find it if he go in and find it. While doing this there is no fear of being hacked. " said Dr. Mann.
+“I've heard of that VR, too. It's called a boo's room. The booth room looks just like the real world, so it has a lot more freedom than a nomral game. However, there are too few numbers of ways to get the seedwords. Sometimes, once you miss a route, you can't go back. you could keep wasting my time without knowing you missed it. The inhabitants of the boo's room know the seedwords, but If the crew we dispatched can’t meet him or if there’s a problem between the two. it would be impossible to know forever." said arvito.
+“But if the user who entered is Sterin, the first general who created the boo's room?” Dr. Mann said seriously.
+“It's been over 100 years since he died. And if there is Sterin or another still living general, you don't even have to worry about this in the first place. Huh... No way… “ arvito said.
+“To find out seedwords, we will create AI by learning the transaction history of Sterin. He's not a sterin, but he's got the most similar thoughts and actions to Sterin, so he'll be able to find the hidden seedwords.” said Dr. Mann.
+“Doctor. Even if the same AI as me is right next to me, that AI and I will not behave the same or think the same for an hour. Well, furthermore, it would be more difficult to expect such behavior if it is not sterin himself but an AI just similar to that. “arvito said.
+“arvito. I know it's difficult too. But this is still necessary.” said Dr. Mann.
+
+
+
+- FIGURE. AI Arvito
+  - aki kenshin : https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472425935387754501
+  - (This space is waiting for your NFT's link!)
+
+
+
+### AI Eisterin
+
+An investigation room with minimal light. Arvito and the mysterious AI sit on both sides of the table. The head of the mysterious AI is shaped like a dolphin tail. It is indigo color. AI engineers and bodyguards stand by outside the room. The AI looking dolphine is looking at the table in a hazy state.
+“You are just a newly created AI. I'm going to ask a few questions to check if you have the right personality to live in the Overworld. If you lie, you will not be permitted to register and may be destroyed, so please answer honestly. First of all, what were you doing before you came here?” Asked arvito. Nothing he actually did. Because this place is where he came immediately after being created. He was born with memory of a young man at the age of 27. She is asking about the generated memories. She is asking what is the end of the memories created through the data. “I feel like I'm having a dream. Did you just say i am a AI? What do you mean...” Eisterin slapped him on the cheek. “It doesn’t hurt! This dream is disgusting. My head feels dizzy too. I really want to get out of here.” He continued to slap his cheeks and, in handcuffs, said, smacking his head against the desk.
+"Stop it. Eisterin. You are newly spawned, so the sensation is not yet complete. Because you were made of human memory, you could think yourself as human, but it is the same AI as me. It may be difficult to accept, but you have to.” Said arvito. But Eiterin didn't stop the riots, and arvito realized that good words are not helpful more. “If you behave like this, you will not be able to register you in Overworld, and we will no longer supply Ethereum to your contract. Then the contracts that cannot pay for gas will stop working, and if you don't want to see your dick disappear in front of your eyes, calm down.” Said arvito. She wasn't embarrassed because she had been doing this for a long time. But Eisterine did not stop the riot. He thought it was useless to hit the body and started screaming or singing songs that didn't fit at all.
+'What the ... Cut off the gas supply is useless ... it already took too much expensive ether to create him” thought arvito. "Let’s look at it again after the learning is completely finished. I think I'm in a hurry. Please bring him back in a month.” Avito called the AI engineer and bodyguard outside the investigation room through a microphone
+Arvito got up from his chair and left the investigation room and leave. But Eisterin was still rioting.
+
+
+
+Interview with a milionaire
+
+
 
 #################################
 Iceterine and Avito are sitting there a month ago. Unlike before, icesterine is looking down only at the table in front of it in a calm position.
