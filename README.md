@@ -83,7 +83,26 @@
    ```
 
 2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
+
 3. If you want to start a different story that fits tokenloss settings and worldview, start working by adding a new folder named a new subtitle.
+
+
+
+## Problems
+
+1. ### English
+
+   1. I am having difficulty writing in English suitable for novels. A commit that fixes it in good English will most likely be accepted.
+
+2. ### Artwork
+   
+   1. Lack of illustrations. The illustrations don't necessarily have to be nice. It’s enough to match the surrounding sentences.
+3. ### Naming
+   
+   1. I am creating a better name for the most important token 'miracle' in tokenloss. and creating the names of pirates who met in Arab.
+4. ### Description
+   
+   1. There is a lack of descriptions about the part in real world which I am not used to.
 
 
 
