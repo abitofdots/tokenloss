@@ -11,10 +11,11 @@
    FIGURE. Flag of United Contracts (https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841)
 
 2. Life in Overworld
-     This is Overworld. It is the largest virtual reality shared by all humans and AI from the real world. In the Overworld, only humans can have human forms. This is to differentiate between humans and AI. Arvito has a starfish-shaped form. She secretly wear a human or cat form when she is alone or bored at home, but she usually use a starfish form. Form is like a name. You can change it, but since you and the people around you become confused, most of AIs are satisfied with the forms given to them when they were born. A call came to arvito. It's Dr. Mann. “The secretary-general is dead. Come to my office right now.”
-
-   FIGURE. Structure diagram of the real world and virtual reality (<u>**If you have any NFT art that suits here, please write the link here.**</u>)
-
+     
+       This is Overworld. It is the largest virtual reality shared by all humans and AI from the real world. In the Overworld, only humans can have human forms. This is to differentiate between humans and AI. Arvito has a starfish-shaped form. She secretly wear a human or cat form when she is alone or bored at home, but she usually use a starfish form. Form is like a name. You can change it, but since you and the people around you become confused, most of AIs are satisfied with the forms given to them when they were born. A call came to arvito. It's Dr. Mann. “The secretary-general is dead. Come to my office right now.”
+   
+     FIGURE. Structure diagram of the real world and virtual reality (<u>**If you have any NFT art that suits here, please write the link here.**</u>)
+     
 3. The secretary general's dead
    "Dr. Mann! Is it really that the secretary general is dead?" arvito ran into Dr. Man's office with a surprised face. There was a sandwich for breakfast in her hand.
    "Right." Dr. Mann answered.
