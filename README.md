@@ -1,5 +1,7 @@
 # Tokenloss
 
+
+
 ## What is Tokenloss?
 
 1. ### **This is a science fiction novel** 
@@ -55,10 +57,12 @@
       - *NFT authors* could feel difficulty when they are making a new story. It's also a problem to continue to build a community for the new story.
       - It's also difficult for *science fiction writers* to make revenue just by writing.
       - **<u>Tokenloss offers a huge theme that solves the problems of the three workers above.</u>**
+      
+      
 
 ## How to read
 
-1. Go to https://github.com/akikenshin/tokenloss/blob/main/English%20Edition/tokenloss.md
+1. Go to https://github.com/akikenshin/tokenloss/tree/main/1.%20Book%20-%20tokenloss
 
 
 
@@ -78,14 +82,8 @@
    FIGURE. Flag of United Contracts (https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/36747705795185302194661942909448427870667582181923526092402472419338317987841)
    ```
 
-2. Insert your any sentences which follows tokenloss settings. Or replace old sentences with better sentences you thought.
+2. Insert any sentences which follows tokenloss settings. Or replace old sentences with better sentences you know.
 3. If you want to start a different story that fits tokenloss settings and worldview, start working by adding a new folder named a new subtitle.
-
-
-
-## Repository Structure
-
-1. 
 
 
 
