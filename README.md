@@ -41,7 +41,7 @@
 
 3. ### **Goal of the tokenloss project**
 
-   1. #### Create a new science fiction with the massive worldview after Star Wars.
+   1. #### Create a new science fiction with the most massive worldview after Star Wars.
 
       - Recently, the gap between reality and science fiction is rapidly narrowing. The world is getting closer to science fiction. The sci-fi worldviews created before are very different from the future we predict now. 
         1. So it's not fun. We need a new worldview.
@@ -70,13 +70,13 @@
 
 ## NFT Marketplace (Collection, Gallery, Etc)
 
-1. Feel free to add your collections or galleries in this section, which are related in tokenloss. This project manager is not good at drawing. You can be more successful than me when it comes to profits using the tokenloss NFT. 
+1. Feel free to add your collections or galleries in this section, which are related in tokenloss. 
 
 2. NFT Marketplace 
 
    1. Opensea 
 
-      - Akikenshin's : https://opensea.io/collection/tokenloss/
+      - Akikenshin's (It's me) : https://opensea.io/collection/tokenloss/
 
       
 
