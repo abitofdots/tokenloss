@@ -75,35 +75,43 @@ Arvito got up from his chair and left the investigation room and leave. But Eist
 
 
 
-Interview with a milionaire
+### Interview with a futurist - Do not waste the ethereum network power
 
 
 
-#################################
-Iceterine and Avito are sitting there a month ago. Unlike before, icesterine is looking down only at the table in front of it in a calm position.
-“How long should I be here? Is it okay to keep an innocent AI locked up like this over and over again? The inspector must know that AI also has basic rights?.” Iceterine first opened his mouth to arvito, who was preparing the investigation data.
-“Of course, AI has basic rights, but there are exceptions when it is a problem with UC and the existence of the Overworld. If you want to be released, go to the booth room and find out the seed word in your wallet. That's why I created you at an expensive gas cost. If I can't figure it out, I can't release you.” Said arvito.
-“I mean, if I do it, I can release it. How do you believe that?” Iceterine asked.
-“It’s like an old AI to tell if it’s because it’s learning from old data.” Avito spoke as if interesting.
-“You can issue a contract. This is Overworld.”
-#################################
+### What contracts do in overworld
 
-#################################
- Yemen's Socotra Island is a beautiful island. Garsi, a senior director at UC, is a former Yemeni soldier. He is a person who played a decisive role in making UC an equal organization with the country. UC has lent a land where you can work independently. He worked with Socotra Island as a base. Yes. This is the island where UC's headquarters are now located. At the time, Yemen was about to split into two countries over oil shares, and there was a war between the government and the separatists. He is ordered to protect Socotra from radical separatists, and is then escorted to the island of Socotra. This is the first time Garsi meets Sterin, the first president, who has only chatted with the club owner (a chat dapp that allows only chat between token holders belonging to the same contract) since childhood. Icesterine. At this point, you will enter Sterin's memory, the Booz Room. This invited Mr. Boo is your original.
-#################################
-#################################
-  The icesterine connected to the booth room slowly wakes up in the bright sunlight. I woke up on a container merchant ship. The sunlight was warm. However, he is trapped.
-"What? What about this drawstring?” Isterine said.
-A man, who appears to be an Arab, held a knife in his neck.
-'what? Why is the booth room like this from the beginning?’ thought Mr. East.
-“Jackil. Is it okay to kill this guy? You seem to be a foreigner? I don't know if it's a big deal after killing it by mistake.” Said the man.
+Eisterin and Arvito are sitting there a month ago. Unlike before, Eisterin is calm down.
+“How long should I be here? Is it okay to keep an innocent AI locked up like this? You are inspector so must know that AI also has basic rights” Eiterin first opened his mouth toward arvito, who was preparing the data for investigation.
+“Of course, AI has basic rights, but there are exceptions when it is a problem with the safety of UC and Overworld. If you want to be released, go to the boo's room and find out the seedword in your wallet. That's why I created you at an expensive gas cost. If I can't figure it out, I can't release you.” Said arvito.
+“You mean, if I do it, I can be released. How do I believe that?” Eieterin asked.
+“It’s like an old AI's if it’s because it’s learning from old data.” Arvito spoke as if it is interesting.
+“I will issue a contract. Here is Overworld.”
+
+
+
+### Socotra Island
+
+Yemen's Socotra Island is a beautiful island. Garsi, a senior director at UC, was a Yemeni soldier. He is a person who played a decisive role in making UC an organization equal with the nations. Garsi has lent a land where UC can work independently. His base was Socotra Island  Yes. This is the island where UC's headquarters are now located. At the time, Yemen was about to split into two countries over oil shares, and there was a war between the government and the separatists. He is ordered to protect Socotra from radical separatists and Garsi meets Sterin in the first time here. He has only chatted with him through Club holders since childhood. Eisterin. This period is the time you are entering into and this is Sterin's memory, the Boo's Room. This sterin is your original.
+
+
+
+### First scene of Boo's room
+
+Eisterin, he has entered into the boo's room and slowly wakes up in the bright sunlight. He woke up on a container merchant ship. The sunlight was warm. However, he is trapped.
+"What? What about this drawstring?” Eisterin said.
+A man, who appears to be an Arab, held a knife and put it on Eisterin's neck.
+'What? Why is the boo's room like this from the beginning?’ thought Eisterin.
+“Jackil. Is it okay to kill this guy? This bastard seem to be a foreigner. I don't know if something shit happens after killing him.” Said the man.
 “Let’s ask the boss first.” Jakyl said.
-The tie of the drawstring was not tight, and a gap was opened when the hands tied behind were twisted several times. As soon as his hand fell out, Mr. East swung his fist into the man's head. The man was beaten with authenticity and stepped back, but Jakyl pointed the gun. And the trigger was pulled. It digs into Sea-East's left chest and soon feels floating in the air. Time seemed to be passing slowly and the world looked black and white.
-“I can’t do it.” A sound came from a distance. It's arvito.
-“It’s because I know that it’s a booth room, so I’m actually too bold to judge the situation than Mr.’s. I need to get a little more educated to behave like a Mr. Boo. I will close the booth room.”
-#################################
+The tie of the drawstring was not tight, and a gap was opened when the hands tied behind were twisted several times. As soon as his hand fell out, Eisterin punch into the man's head. The man was hit and stepped back, but Jakyl pointed the gun toward Eisterin. And the trigger was pulled. It digs into Eisterin's left chest and soon feels floating in the air. Time seemed to be passing slowly and the world looked black and white.
+“More try No useful” A sound came from a distance. It's arvito.
+“It’s because you know that it’s a booth room, so you are actually too bold to judge the situation like general sterin. You need to get a little more educated to behave like a general. I will turn off the boo's room.”
 
-#################################
+
+
+## The secretary general, Sterin
+
 Mr. Boo was 27 years old at the time. It's been less than three years since I graduated from college. However, it was inappropriate for him to go on a preliminary visit to Socotra Island in Yemen, where he was in a civil war. On behalf of UC, I was treated as a foreign envoy to Yemen. It was strange that Mr. Boo, who had just escaped from the new recruits, entrusted the investigation of a place where it was impossible to know if it was dangerous. It was the member who claimed the initial coalition tokens that he was able to take over. He joined the club owner of an app development company, recognized for his career, and advanced to the UC Secretariat.
 
 It tells us that he was being recognized at a young age. He was the creator of the DApp Club Owner, and naturally, he was actively interacting with early Alliance token holders. That's why I took the criticism at a young age.
